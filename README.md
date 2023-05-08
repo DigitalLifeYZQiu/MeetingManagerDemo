@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/100272647/236774939-99b78169-4631-4115-88e2-cd4ef85cb849.png)
-
 # Meeting Manager Demo
 
 ## Description
@@ -96,7 +94,8 @@ As for this demo, we use our favorite python IDE: PyCharm.
 
 First, **Right Click** in project file and choose **Open in PyCharm**, like this:
 
-![image-20230508154149847](README.assets/image-20230508154149847-1683531719004-1-1683531725426-3-1683534133336-29-1683534136687-31.png)
+
+![image-20230508154149847](README.assets/56w9ja-1683534959708-79.png)
 
 Then, find the file named **manage.py** in project folder, like this:
 
