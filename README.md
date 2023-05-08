@@ -94,27 +94,27 @@ As for this demo, we use our favorite python IDE: PyCharm.
 
 First, **Right Click** in project file and choose **Open in PyCharm**, like this:
 
-![image-20230508154149847](README.assets/image-20230508154149847-1683531719004-1-1683531725426-3.png)
+![image-20230508154149847](README.assets/image-20230508154149847-1683531719004-1-1683531725426-3-1683534133336-29-1683534136687-31.png)
 
 Then, find the file named **manage.py** in project folder, like this:
 
-![image-20230508154254927](README.assets/image-20230508154254927-1683531779593-5.png)
+![image-20230508154254927](README.assets/image-20230508154254927-1683531779593-5-1683534139230-33.png)
 
 Click **Terminal**, and then choose **Command Prompt**, like this:
 
-![image-20230508154450389](README.assets/image-20230508154450389-1683531894558-7.png)
+![image-20230508154450389](README.assets/image-20230508154450389-1683531894558-7-1683534141897-35.png)
 
 Activate previously created virtual environment **DjangoMK1**, like this:
 
-![image-20230508154639047](README.assets/image-20230508154639047-1683532002538-9.png)
+![image-20230508154639047](README.assets/image-20230508154639047-1683532002538-9-1683534143564-37.png)
 
 Run command `python manage.py runserver` to run the whole project, like this:
 
-![image-20230508154831130](README.assets/image-20230508154831130-1683532115417-11.png)
+![image-20230508154831130](README.assets/image-20230508154831130-1683532115417-11-1683534145501-39.png)
 
 If you cannot get the above output, please double-check whether there is a configuration error, environment collision or software failure. Press **Ctrl** button and **Left Click** the blue URL, you should get the running program like this:
 
-![image-20230508155103475](README.assets/image-20230508155103475.png)
+![image-20230508155103475](README.assets/image-20230508155103475-1683534147636-41.png)
 
 Now, you have successfully build the whole project! Cheers! Here are some additional integrated commands in this program:
 
@@ -141,31 +141,31 @@ For **Common Users**, the available functions are listed below:
 
 #### sign in
 
-![image-20230508160350198](README.assets/image-20230508160350198-1683533032330-13-1683533035045-15.png)
+![image-20230508160350198](README.assets/image-20230508160350198-1683533032330-13-1683533035045-15-1683534151666-43.png)
 
 #### log in
 
-![image-20230508160401783](README.assets/image-20230508160401783-1683533043565-17.png)
+![image-20230508160401783](README.assets/image-20230508160401783-1683533043565-17-1683534154042-45.png)
 
 #### get announcement information
 
-![image-20230508160410487](README.assets/image-20230508160410487-1683533051959-19.png)
+![image-20230508160410487](README.assets/image-20230508160410487-1683533051959-19-1683534157175-47.png)
 
 #### modify personal information
 
-![image-20230508160420202](README.assets/image-20230508160420202-1683533061659-21.png)
+![image-20230508160420202](README.assets/image-20230508160420202-1683533061659-21-1683534159281-49.png)
 
 #### get current meeting list and attend meetings
 
-![image-20230508160428616](README.assets/image-20230508160428616.png)
+![image-20230508160428616](README.assets/image-20230508160428616-1683534161455-51.png)
 
 #### search the meetings user attend or initiate
 
-![image-20230508160437483](README.assets/image-20230508160437483.png)
+![image-20230508160437483](README.assets/image-20230508160437483-1683534163135-53.png)
 
 #### initiate a meeting
 
-![image-20230508160444346](README.assets/image-20230508160444346.png)
+![image-20230508160444346](README.assets/image-20230508160444346-1683534164612-55.png)
 
 ### Administrators
 
@@ -173,23 +173,23 @@ For **Administrators**, the available functions are listed below:
 
 #### log in
 
-![image-20230508160637852](README.assets/image-20230508160637852-1683533199462-23.png)
+![image-20230508160637852](README.assets/image-20230508160637852-1683533199462-23-1683534167229-57.png)
 
 #### make an announcement
 
-![image-20230508160646096](README.assets/image-20230508160646096-1683533207869-25.png)
+![image-20230508160646096](README.assets/image-20230508160646096-1683533207869-25-1683534169327-59.png)
 
 #### manage meetings
 
-![image-20230508160657454](README.assets/image-20230508160657454.png)
+![image-20230508160657454](README.assets/image-20230508160657454-1683534171210-61.png)
 
 #### manage meeting rooms
 
-![image-20230508160703419](README.assets/image-20230508160703419.png)
+![image-20230508160703419](README.assets/image-20230508160703419-1683534172825-63.png)
 
 #### manage users
 
-![image-20230508160710092](README.assets/image-20230508160710092.png)
+![image-20230508160710092](README.assets/image-20230508160710092-1683534174583-65.png)
 
 ## Further Information
 
@@ -199,20 +199,20 @@ Here, we demonstrate some of the designing process of this project:
 
 ### Database Interaction
 
-![image-20230508161114014](README.assets/image-20230508161114014.png)
+![image-20230508161114014](README.assets/image-20230508161114014-1683534176881-67.png)
 
 ### System Environment Diagram
 
-![image-20230508161158145](README.assets/image-20230508161158145.png)
+![image-20230508161158145](README.assets/image-20230508161158145-1683534178447-69.png)
 
 ### Level 1 Data Flow Diagram
 
-![image-20230508161233263](README.assets/image-20230508161233263.png)
+![image-20230508161233263](README.assets/image-20230508161233263-1683534180951-71.png)
 
 ### Entity-Relationship Diagram
 
-![image-20230508161304652](README.assets/image-20230508161304652.png)
+![image-20230508161304652](README.assets/image-20230508161304652-1683534182870-73.png)
 
 ### Module Structure Diagram
 
-![image-20230508161335171](README.assets/image-20230508161335171-1683533618411-27.png)
+![image-20230508161335171](README.assets/image-20230508161335171-1683533618411-27-1683534185150-75.png)
