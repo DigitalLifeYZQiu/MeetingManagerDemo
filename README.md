@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/100272647/236774939-99b78169-4631-4115-88e2-cd4ef85cb849.png)
+
 # Meeting Manager Demo
 
 ## Description
